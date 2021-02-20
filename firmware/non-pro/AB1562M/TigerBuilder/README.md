@@ -1,0 +1,1 @@
+The following are only compatible with Yuehu manufactured circuit boards!
